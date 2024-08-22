@@ -1,0 +1,7 @@
+modules = ["nodejs-20", "nodejs-18", "web", "gcloud", "docker", "python-3.9"]
+[nix]
+channel = "stable-24_05"
+
+[[ports]]
+localPort = 5000
+externalPort = 80
