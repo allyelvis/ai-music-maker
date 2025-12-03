@@ -3,7 +3,7 @@
     "axios": "^1.8.4",
     "body-parser": "^1.20.3",
     "dotenv": "^16.4.5",
-    "express": "^4.21.2"
+    "express": "^4.22.0"
   },
   "name": "ai-music-maker-backend",
   "version": "1.0.0",
